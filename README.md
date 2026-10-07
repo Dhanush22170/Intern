@@ -2,8 +2,8 @@
 
 A responsive, single-page homepage for a fictional design agency, built for the Next.js Developer Internship task.
 
-- **Live demo:** _add your Vercel link here_
-- **Repository:** _add your GitHub link here_
+- **Live demo:** https://intern-nine-beryl.vercel.app/
+- **Repository:** https://github.com/Dhanush22170/Intern
 
 ## Sections
 
@@ -19,12 +19,15 @@ A responsive, single-page homepage for a fictional design agency, built for the 
 - [Tailwind CSS v4](https://tailwindcss.com/)
 - `next/image` for image optimization
 - `next/font` (Bricolage Grotesque + Figtree)
+- Deployed on [Vercel](https://vercel.com/)
 
 ## Setup
 
 Requires Node.js 18.18 or newer.
 
 ```bash
+git clone https://github.com/Dhanush22170/Intern.git
+cd Intern
 npm install
 npm run dev      # http://localhost:3000
 ```
